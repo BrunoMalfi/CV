@@ -21,7 +21,7 @@
 ## Experiencia Profesional
 
 ### Consultor/Técnico EDI Departamento EDI de Ford
-**Periodo:** AGO 2018 - Actualidad
+**Periodo:** AGO 2024 - Actualidad
 - Migración de conexiones OFTP,OFTP2,AS2 y SFTP de la Plataforma EDI EPIC a GECH HUB.
 - Soporte EDI para proveedores de Ford. 
 
