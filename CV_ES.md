@@ -20,8 +20,13 @@
 
 ## Experiencia Profesional
 
+### Consultor/Técnico EDI Departamento EDI de Ford
+**Periodo:** AGO 2018 - Actualidad
+- Migración de conexión OFTP,OFTP2,AS2 y SFTP de la Plataforma EDI EPIC a GECH HUB.
+- Soporte EDI para proveedores de Ford. 
+
 ### Programación FullStack
-**Periodo:** MAR 2024 - Actualidad
+**Periodo:** MAR 2024 - JUL 2024
 - Proyectos en en HTML, CSS y JavaScript Vanilla.
 - Proyectos Backend en Node.js usando Express, Sequelize, Mongoose, etc . 
 - Proyector  Frontend Principalmente en React pero también en Vue y Angular.
